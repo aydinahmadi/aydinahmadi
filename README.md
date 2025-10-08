@@ -21,13 +21,13 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-icon.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://pybullet.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pybullet/pybullet/master/docs/pybullet_logo.png" alt="pybullet" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Bullet_Physics_Logo.svg" alt="PyBullet" width="40" height="40"/>
   </a>
 </p>
 
