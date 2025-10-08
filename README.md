@@ -1,7 +1,5 @@
 <h3 align="center">Hi, I am Aydin!</h3>
 
-- 🌱 I’m currently learning **Deep learning, Machine learning and Reinforcement learning.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/aydin_ahmadi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aydin_ahmadi98" height="30" width="40" /></a>
